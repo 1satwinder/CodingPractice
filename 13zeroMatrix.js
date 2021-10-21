@@ -1,6 +1,5 @@
 
 const zeroMatrix = (matrix,n) => {
-
 	for(let r=0; r<n; r++){
 		for(let c=0; c<n; c++){
 			if(matrix[r][c] ===0)

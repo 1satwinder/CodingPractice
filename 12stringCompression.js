@@ -1,8 +1,6 @@
 
 const stringCompression = (str) => {
-
 const n = str.length;
-
 let count=1, output='', uniqCount=0;
 
 for(let i=0; i<n; i++){
