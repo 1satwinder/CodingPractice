@@ -1,4 +1,3 @@
-
 const stringCompression = (str) => {
 const n = str.length;
 let count=1, output='', uniqCount=0;
