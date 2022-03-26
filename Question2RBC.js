@@ -10,4 +10,4 @@ const f2 = (str) => {
         return result;
     }
 
-console.log(f2("5"));
+console.log(f2("5.2"));

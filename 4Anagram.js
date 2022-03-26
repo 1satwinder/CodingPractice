@@ -25,5 +25,5 @@ function charMap(s) {
     }
     return true;
   }
-  console.log(isAnagram("sdaeder", "ddersa"));
+  console.log(isAnagram("sda", "asd"));
   

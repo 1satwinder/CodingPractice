@@ -9,8 +9,14 @@ const check_palindrome = (str) => {
         }
     }
     return true;
-}
 
+    // const arr = str.split("");
+    // const rev = [...arr].reverse();
+    // console.log(arr);
+    // console.log(rev);
+    // return arr === rev;
+
+}
 
 const s = "madam";
 console.log(check_palindrome(s))
